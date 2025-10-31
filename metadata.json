@@ -1,5 +1,5 @@
 {
-  "name": "Simple Calendar",
-  "description": "A straightforward and visually appealing calendar application built with React and Tailwind CSS for easy date viewing and navigation.",
+  "name": "Battleship Game",
+  "description": "A thrilling Battleship game where you can challenge a cunning AI opponent on a grid-based board, complete with ship placement and exciting combat! Go for the kill!",
   "requestFramePermissions": []
 }
