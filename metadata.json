@@ -1,0 +1,5 @@
+{
+  "name": "Simple Calendar",
+  "description": "A straightforward and visually appealing calendar application built with React and Tailwind CSS for easy date viewing and navigation.",
+  "requestFramePermissions": []
+}
